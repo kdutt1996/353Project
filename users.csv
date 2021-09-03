@@ -1,0 +1,44 @@
+screen_name,name,birth_year,gender,is_political
+BarackObama,Barack Obama,1961,male,false
+justinbieber,Justin Bieber,1994,male,false
+katyperry,Katy Perry, 1984,female,false
+rihanna,Robyn Fenty, 1988,female,false
+taylorswift13,Taylor Swift,1989,female,false
+Cristiano,Cristiano Ronaldo,1985,male,false
+realDonaldTrump,Donald Trump,1946,male,true
+ladygaga,Stefani Germanotta,1986,female,false
+TheEllenShow,Ellen DeGeneres,1958,female,false
+ArianaGrande,Ariana Grande,1993,female,false
+KimKardashian,Kim Kardashian,1980,female,false
+jtimberlake,Justin Timberlake,1981,male,false
+selenagomez,Selena Gomez,1992,female,false
+britneyspears,Britney Spears,1981,females,false
+ddlovato,Demi Lovato,1992,female,false
+shakira,Shakira Mebarak,1977,female,false
+jimmyfallon,Jimmy Fallon,1974,male,false
+BillGates,Bill Gates,1955,male,false
+KingJames,LeBron James,1984,male,false
+JLo,Jennifer Lopez,1969,female,false
+Oprah,Oprah Winfrey,1954,female,false
+MileyCyrus,MileyCyrus,1992,female,false
+BrunoMars,Bruno Mars,1985,male,false
+BeingSalmanKhan,Salman Khan,1965,male,false
+iamsrk,Shah Khan,1965,male,false
+NiallOfficial,Niall Horan,1993,male,false
+Drake,Aubrey Graham,1986,male,false
+akshaykumar,Akshay Kumar,1967,male,false
+elonmusk,Elon Musk,1971,male,false
+narendramodi,Narendra Modi,1950,male,true
+JustinTrudeau,Justin Trudeau,1971,male,true
+BorisJohnson,Boris Johnson,1964,male,true
+ScottMorrisonMP,Scott Morrison,1968,male,true
+jacindaardern,Jacinda Ardern,1980,female,true
+NicolaSturgeon,Nicola Sturgeon,1970,female,true
+Mike_Pence,Mike Pence,1959,male,true
+GovBillWeld,Bill Weld,1945,male,true
+SenWarren,Elizabeth Warren,1949,female,true
+BernieSanders,Bernie Sanders,1941,male,true
+JoeBiden,Joe Biden,1942,male,true
+AndrewScheer,Andrew Scheer,1979,male,true
+theJagmeetSingh,Jagmeet Singh,1979,male,true
+JoAnnRobertsHFX,Jo-Ann Roberts,1956,female,true
